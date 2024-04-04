@@ -1,4 +1,5 @@
 # Analysis-of-user-activity-in-Google-Spreadsheets
+[Check out the project HERE](https://docs.google.com/spreadsheets/d/1x1adJYuzYRncL2R1YGWFlWB3GRM2HG2VYlL2ykXCb_s/edit?usp=sharing)
 The analysis of user activity in Google Spreadsheets involves statistical calculations, chart creation, data modifications, cohort analysis, and user retention, aiming to better understand and optimize user interactions on the platform.
 
 # Analiza aktywności użytkowników w Google Spreadsheets dla GitHub
